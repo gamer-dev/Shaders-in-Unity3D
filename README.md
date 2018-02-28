@@ -1,0 +1,11 @@
+# Shaders-in-Unity3D
+A repo to store the various shaders I wrote in Unity3D.
+
+Hello,
+I have taken up an intrest in writing Shaders rececntly, and this repo will store most of the shaders I write for practice and learning, along
+with lots of comments to help me and others understand whats going on.
+Also, there will be some cool and awesome shaders too.
+Cheers!
+
+Game Engine : UNITY3D
+Language : High Level Shader Language (HLSL)
